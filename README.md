@@ -15,6 +15,7 @@ The main purpose of this project is to practice:
 ## 📂 Project Structure
 
 public-dashboard-connection/
+
 │
 ├── routing-app/
 
