@@ -17,6 +17,7 @@ The main purpose of this project is to practice:
 public-dashboard-connection/
 │
 ├── routing-app/
+
 │ └── Basic Home / About / Contact routing example
 │
 ├── profile-dashboard/
@@ -45,8 +46,9 @@ public-dashboard-connection/
 - Personal Profile Page
 - Skills Dashboard
 - React Router navigation
-- <img width="1916" height="793" alt="image" src="https://github.com/user-attachments/assets/edf45087-d053-4aed-af19-ac7b787fb11c" />
-<img width="1919" height="703" alt="image" src="https://github.com/user-attachments/assets/5405473f-61b9-4601-9180-11dc072a3106" />
+- 
+<img width="1879" height="883" alt="image" src="https://github.com/user-attachments/assets/5818b4f3-5115-4822-a28b-542e58f8fc1c" />
+<img width="1792" height="661" alt="image" src="https://github.com/user-attachments/assets/d3181915-2d2e-4449-96d8-366ad7b47f83" />
 
 ### 🔹 Profile Link Dashboard
 - Left fixed profile card
@@ -54,8 +56,8 @@ public-dashboard-connection/
 - Header navigation
 - Sidebar projects list
 - Navigation between pages implemented using React Router `<Link>`
-<img width="1879" height="883" alt="image" src="https://github.com/user-attachments/assets/5818b4f3-5115-4822-a28b-542e58f8fc1c" />
-<img width="1792" height="661" alt="image" src="https://github.com/user-attachments/assets/d3181915-2d2e-4449-96d8-366ad7b47f83" />
+- <img width="1916" height="793" alt="image" src="https://github.com/user-attachments/assets/edf45087-d053-4aed-af19-ac7b787fb11c" />
+<img width="1919" height="703" alt="image" src="https://github.com/user-attachments/assets/5405473f-61b9-4601-9180-11dc072a3106" />
 ---
 
 ## 🛠️ Tech Stack
