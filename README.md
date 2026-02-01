@@ -21,10 +21,14 @@ public-dashboard-connection/
 │ └── Basic Home / About / Contact routing example
 │
 ├── profile-dashboard/
+
 │ └── Simple Profile + Dashboard routing
+
 │
 ├── profile-link-dashboard/
+
 │ └── Profile card with sidebar + linked dashboard using React Link
+
 │
 └── README.md
 
