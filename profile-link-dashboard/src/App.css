@@ -1,0 +1,85 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: #f1f5f9;
+}
+
+/* HEADER */
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #2563eb;
+  padding: 15px 30px;
+}
+
+.logo a {
+  color: white;
+  font-size: 22px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.logo a:hover {
+  text-decoration: underline;
+}
+
+nav a {
+  color: white;
+  margin-left: 25px;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+/* MAIN LAYOUT */
+
+.main {
+  display: flex;
+  padding: 30px;
+}
+
+/* PROFILE CARD */
+
+.profile-card {
+  width: 250px;
+  background: white;
+  padding: 20px;
+  border-radius: 15px;
+  text-align: center;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.photo {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+/* RIGHT CONTENT */
+
+.content {
+  margin-left: 40px;
+  background: white;
+  padding: 30px;
+  border-radius: 15px;
+  width: 100%;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  background: #dbeafe;
+  margin: 6px 0;
+  padding: 8px;
+  border-radius: 10px;
+}
